@@ -1,7 +1,7 @@
 B.\"Manpage for simple shell
 .\"Created by Luis Chaparro and Edward Ortiz
 
-.TH SODASH 1 "August 2019" "Holberton School" "SODA SHELL - Simple Shell man page"
+.TH SODASH 1 "August 2019" "shell School" "SODA SHELL - Simple Shell man page"
 
 .SH NAME
 sodash\fR \- simple UNIX command interpreter
